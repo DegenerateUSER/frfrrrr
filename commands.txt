@@ -1,0 +1,6 @@
+1. !tagall
+2. !ping
+3. image + !info
+4. !tagadmins
+5. !sticker
+6. url automatic scanning
